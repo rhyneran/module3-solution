@@ -1,0 +1,43 @@
+body {
+	font-size: 16px
+}
+
+.navbar {
+	background-color: grey;
+	border-style: solid;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar-brand p {
+	font-weight: bold;
+	horizontal-align: left;
+}
+
+#menu {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	padding-top: 20px;
+}
+
+#item {
+	background-color: grey;
+	padding: 20px;
+	margin: 50px;
+	text-align: left;
+}
+
+h3 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+#link_param {
+	background-color: white;
+	text-align: center;
+	border-color: black;
+	border-style: solid;
+	border-width:1px;
+	margin: 0px;
+}
